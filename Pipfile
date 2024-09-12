@@ -20,8 +20,11 @@ streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
 langchain-openai = "*"
+python-dotenv = "*"
+langchain-community = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
