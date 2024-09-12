@@ -13,5 +13,6 @@
             "parser": "code"
         }
     },
-    "gitdoc.autoCommitDelay": 10000
+    "gitdoc.autoCommitDelay": 10000,
+    "python.pythonPath": "/Users/grinnan/.local/share/virtualenvs/documentation-helper-nyvGd7ab/bin/python"
 }
