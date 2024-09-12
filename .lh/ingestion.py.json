@@ -3,11 +3,107 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 24,
             "patches": [
                 {
                     "date": 1726177139610,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1726177640295,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,5 +9,6 @@\n from langchain_pinecone import PineconeVectorStore\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n-if __name\n\\ No newline at end of file\n+if __name__ == \"__main__\":\n+    \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177776113,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,5 +10,5 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n if __name__ == \"__main__\":\n-    \n\\ No newline at end of file\n+   ingest_docs \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177793001,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,5 +10,6 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n if __name__ == \"__main__\":\n-   ingest_docs \n\\ No newline at end of file\n+   ingest_docs()\n+   \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177810350,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,5 +11,5 @@\n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n if __name__ == \"__main__\":\n    ingest_docs()\n-   \n\\ No newline at end of file\n+   loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177850242,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,7 +9,9 @@\n from langchain_pinecone import PineconeVectorStore\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n+def ingest_docs():\n+\n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177864494,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,8 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n+    loader = ReadTheDocsLoader(:\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177939460,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(:\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177951538,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177958655,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726177974133,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/en/latest/\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178066572,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/en/latest/\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.com/en/latest/\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178094058,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.com/en/latest/\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\n \n if __name__ == \"__main__\":\n    ingest_docs()\n    loader = \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178107040,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,6 +13,5 @@\n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\n \n if __name__ == \"__main__\":\n-   ingest_docs()\n-   loader = \n\\ No newline at end of file\n+   ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178115056,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,5 +13,5 @@\n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\n \n if __name__ == \"__main__\":\n-   ingest_docs()\n\\ No newline at end of file\n+    ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178125358,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,8 +10,8 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\n+    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n \n if __name__ == \"__main__\":\n     ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178158194,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,7 +11,8 @@\n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n+    raw)documents = loader.load_documents()\n \n if __name__ == \"__main__\":\n     ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178169662,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,8 +11,8 @@\n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n-    raw)documents = loader.load_documents()\n+    raw_documents = loader.load()\n \n if __name__ == \"__main__\":\n     ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178181002,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,7 +12,8 @@\n \n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n     raw_documents = loader.load()\n+    print\n \n if __name__ == \"__main__\":\n     ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178346238,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,8 +12,8 @@\n \n def ingest_docs():\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n     raw_documents = loader.load()\n-    print\n+    print(f\"loaded {len(raw_documents)} documents\")\n \n if __name__ == \"__main__\":\n     ingest_docs()\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1726178480487,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,8 +10,10 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n+    \"\"\"_summary_\n+    \"\"\"\n     loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n     raw_documents = loader.load()\n     print(f\"loaded {len(raw_documents)} documents\")\n \n"
+                },
+                {
+                    "date": 1726178609261,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,11 +10,14 @@\n \n embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n \n def ingest_docs():\n-    \"\"\"_summary_\n     \"\"\"\n-    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n+    Ingest documents from ReadTheDocs and store them in Pinecone.\n+    \"\"\"\n+    loader = ReadTheDocsLoader(\n+        '/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/'\n+        )\n     raw_documents = loader.load()\n     print(f\"loaded {len(raw_documents)} documents\")\n \n if __name__ == \"__main__\":\n"
+                },
+                {
+                    "date": 1726178683905,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,9 +14,9 @@\n     \"\"\"\n     Ingest documents from ReadTheDocs and store them in Pinecone.\n     \"\"\"\n     loader = ReadTheDocsLoader(\n-        '/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/'\n+        'langchain-docs/api.python.langchain.com/en/latest/'\n         )\n     raw_documents = loader.load()\n     print(f\"loaded {len(raw_documents)} documents\")\n \n"
+                },
+                {
+                    "date": 1726178690281,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,9 @@\n     Ingest documents from ReadTheDocs and store them in Pinecone.\n     \"\"\"\n     loader = ReadTheDocsLoader(\n         'langchain-docs/api.python.langchain.com/en/latest/'\n-        )\n+    )\n     raw_documents = loader.load()\n     print(f\"loaded {len(raw_documents)} documents\")\n \n if __name__ == \"__main__\":\n"
+                },
+                {
+                    "date": 1726178701951,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,9 +14,9 @@\n     \"\"\"\n     Ingest documents from ReadTheDocs and store them in Pinecone.\n     \"\"\"\n     loader = ReadTheDocsLoader(\n-        'langchain-docs/api.python.langchain.com/en/latest/'\n+        './langchain-docs/api.python.langchain.com/en/latest/'\n     )\n     raw_documents = loader.load()\n     print(f\"loaded {len(raw_documents)} documents\")\n \n"
                 }
             ],
             "date": 1726177139610,

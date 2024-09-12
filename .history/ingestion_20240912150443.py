@@ -15,8 +15,8 @@ def ingest_docs():
     Ingest documents from ReadTheDocs and store them in Pinecone.
     """
     loader = ReadTheDocsLoader(
-        './langchain-docs/api.python.langchain.com/en/latest/'
-    )
+        'langchain-docs/api.python.langchain.com/en/latest/'
+        )
     raw_documents = loader.load()
     print(f"loaded {len(raw_documents)} documents")
 

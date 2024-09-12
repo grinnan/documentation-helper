@@ -11,14 +11,7 @@ from langchain_pinecone import PineconeVectorStore
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
 def ingest_docs():
-    """
-    Ingest documents from ReadTheDocs and store them in Pinecone.
-    """
-    loader = ReadTheDocsLoader(
-        './langchain-docs/api.python.langchain.com/en/latest/'
-    )
-    raw_documents = loader.load()
-    print(f"loaded {len(raw_documents)} documents")
+    loader = ReadTheDocsLoader("/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/"):
 
 if __name__ == "__main__":
-    ingest_docs()
+   ingest_docs()
