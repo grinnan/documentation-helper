@@ -21,5 +21,8 @@
     "python.pydev.pythonExecutable": "python3",
     "python.pydev.lint.mypy.showOutput": true,
     "python.pydev.lint.mypy.use": true,
-    "python.pydev.sortImportsOnFormat": "isort"
+    "python.pydev.sortImportsOnFormat": "isort",
+    "vsintellicode.java.completionsEnabled": false,
+    "vsintellicode.sql.completionsEnabled": true,
+    "vsintellicode.python.completionsEnabled": true
 }
