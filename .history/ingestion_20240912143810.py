@@ -10,4 +10,3 @@ from langchain_pinecone import PineconeVectorStore
 
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
-if __name

@@ -1,0 +1,18 @@
+{
+    "sourceFile": "ingestion.py",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1726177139610,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1726177139610,
+            "name": "Commit-0",
+            "content": "import os\nfrom dotenv import load_dotenv, find_dotenv\nload_dotenv(find_dotenv())\n\n\nfrom langchain.text_splitter import RecursiveCharacterTextSplitter\nfrom langchain_community.document_loaders import ReadTheDocsLoader\nfrom langchain_openai import OpenAIEmbeddings\nfrom langchain_pinecone import PineconeVectorStore\n\nembeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n\nif __name"
+        }
+    ]
+}
