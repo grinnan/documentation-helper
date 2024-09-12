@@ -12,5 +12,6 @@
         "code-runner-output": {
             "parser": "code"
         }
-    }
+    },
+    "gitdoc.autoCommitDelay": 10000
 }
