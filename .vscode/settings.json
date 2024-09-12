@@ -15,5 +15,6 @@
     },
     "gitdoc.autoCommitDelay": 10000,
     "python.pythonPath": "/Users/grinnan/.local/share/virtualenvs/documentation-helper-nyvGd7ab/bin/python",
-    "isort.check": true
+    "isort.check": true,
+    "python.pydev.formatter": "black"
 }
