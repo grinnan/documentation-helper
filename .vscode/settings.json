@@ -18,5 +18,8 @@
     "isort.check": true,
     "python.pydev.formatter": "pydevf",
     "python.pydev.lint.flake8.use": true,
-    "python.pydev.pythonExecutable": "python3"
+    "python.pydev.pythonExecutable": "python3",
+    "python.pydev.lint.mypy.showOutput": true,
+    "python.pydev.lint.mypy.use": true,
+    "python.pydev.sortImportsOnFormat": "isort"
 }
