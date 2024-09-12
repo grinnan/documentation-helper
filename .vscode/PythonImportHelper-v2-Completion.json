@@ -1,0 +1,1871 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "find_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ReadTheDocsLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "langchain_pinecone",
+        "description": "langchain_pinecone",
+        "isExtraImport": true,
+        "detail": "langchain_pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912143810",
+        "description": ".history.ingestion_20240912143810",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")",
+        "detail": ".history.ingestion_20240912143810",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912143859",
+        "description": ".history.ingestion_20240912143859",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\nif __name",
+        "detail": ".history.ingestion_20240912143859",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912144720",
+        "description": ".history.ingestion_20240912144720",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912144720",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912144936",
+        "description": ".history.ingestion_20240912144936",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\nif __name__ == \"__main__\":\n   ingest_docs",
+        "detail": ".history.ingestion_20240912144936",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912144953",
+        "description": ".history.ingestion_20240912144953",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\nif __name__ == \"__main__\":\n   ingest_docs()",
+        "detail": ".history.ingestion_20240912144953",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145010",
+        "description": ".history.ingestion_20240912145010",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145010",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145050",
+        "description": ".history.ingestion_20240912145050",
+        "peekOfCode": "def ingest_docs():\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145050",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145050",
+        "description": ".history.ingestion_20240912145050",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145050",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145104",
+        "description": ".history.ingestion_20240912145104",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(:\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145104",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145104",
+        "description": ".history.ingestion_20240912145104",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(:\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145104",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145219",
+        "description": ".history.ingestion_20240912145219",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145219",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145219",
+        "description": ".history.ingestion_20240912145219",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145219",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145231",
+        "description": ".history.ingestion_20240912145231",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145231",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145231",
+        "description": ".history.ingestion_20240912145231",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145231",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145238",
+        "description": ".history.ingestion_20240912145238",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145238",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145238",
+        "description": ".history.ingestion_20240912145238",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145238",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145254",
+        "description": ".history.ingestion_20240912145254",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145254",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145254",
+        "description": ".history.ingestion_20240912145254",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain..com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145254",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145426",
+        "description": ".history.ingestion_20240912145426",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145426",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145426",
+        "description": ".history.ingestion_20240912145426",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145426",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145454",
+        "description": ".history.ingestion_20240912145454",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145454",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145454",
+        "description": ".history.ingestion_20240912145454",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()\n   loader =",
+        "detail": ".history.ingestion_20240912145454",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145507",
+        "description": ".history.ingestion_20240912145507",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()",
+        "detail": ".history.ingestion_20240912145507",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145507",
+        "description": ".history.ingestion_20240912145507",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n   ingest_docs()",
+        "detail": ".history.ingestion_20240912145507",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145515",
+        "description": ".history.ingestion_20240912145515",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145515",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145515",
+        "description": ".history.ingestion_20240912145515",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\"):\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145515",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145525",
+        "description": ".history.ingestion_20240912145525",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145525",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145525",
+        "description": ".history.ingestion_20240912145525",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145525",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145558",
+        "description": ".history.ingestion_20240912145558",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw)documents = loader.load_documents()\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145558",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145558",
+        "description": ".history.ingestion_20240912145558",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw)documents = loader.load_documents()\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145558",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145609",
+        "description": ".history.ingestion_20240912145609",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145609",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145609",
+        "description": ".history.ingestion_20240912145609",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145609",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145621",
+        "description": ".history.ingestion_20240912145621",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145621",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145621",
+        "description": ".history.ingestion_20240912145621",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145621",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912145906",
+        "description": ".history.ingestion_20240912145906",
+        "peekOfCode": "def ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145906",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912145906",
+        "description": ".history.ingestion_20240912145906",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912145906",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912150120",
+        "description": ".history.ingestion_20240912150120",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"_summary_\n    \"\"\"\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912150120",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912150120",
+        "description": ".history.ingestion_20240912150120",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"_summary_\n    \"\"\"\n    loader = ReadTheDocsLoader(\"/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/\")\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":\n    ingest_docs()",
+        "detail": ".history.ingestion_20240912150120",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912150329",
+        "description": ".history.ingestion_20240912150329",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        '/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/'\n        )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912150329",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912150329",
+        "description": ".history.ingestion_20240912150329",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        '/Users/grinnan/prj/documentation-helper/langchain-docs/api.python.langchain.com/en/latest/'\n        )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912150329",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912150443",
+        "description": ".history.ingestion_20240912150443",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        'langchain-docs/api.python.langchain.com/en/latest/'\n        )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912150443",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912150443",
+        "description": ".history.ingestion_20240912150443",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        'langchain-docs/api.python.langchain.com/en/latest/'\n        )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912150443",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912150450",
+        "description": ".history.ingestion_20240912150450",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        'langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912150450",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912150450",
+        "description": ".history.ingestion_20240912150450",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        'langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912150450",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912150501",
+        "description": ".history.ingestion_20240912150501",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912150501",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912150501",
+        "description": ".history.ingestion_20240912150501",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912150501",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912151056",
+        "description": ".history.ingestion_20240912151056",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912151056",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912151056",
+        "description": ".history.ingestion_20240912151056",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912151056",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": ".history.ingestion_20240912151519",
+        "description": ".history.ingestion_20240912151519",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": ".history.ingestion_20240912151519",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": ".history.ingestion_20240912151519",
+        "description": ".history.ingestion_20240912151519",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": ".history.ingestion_20240912151519",
+        "documentation": {}
+    },
+    {
+        "label": "ingest_docs",
+        "kind": 2,
+        "importPath": "ingestion",
+        "description": "ingestion",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "detail": "ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "ingestion",
+        "description": "ingestion",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": "ingestion",
+        "documentation": {}
+    }
+]
