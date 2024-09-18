@@ -16,7 +16,7 @@
     "gitdoc.autoCommitDelay": 10000,
     "python.pythonPath": "/Users/grinnan/.local/share/virtualenvs/documentation-helper-nyvGd7ab/bin/python",
     "isort.check": true,
-    "python.pydev.formatter": "pydevf",
+    "python.pydev.formatter": "black",
     "python.pydev.lint.flake8.use": true,
     "python.pydev.pythonExecutable": "python3",
     "python.pydev.lint.mypy.showOutput": true,
@@ -24,5 +24,8 @@
     "python.pydev.sortImportsOnFormat": "isort",
     "vsintellicode.java.completionsEnabled": false,
     "vsintellicode.sql.completionsEnabled": true,
-    "vsintellicode.python.completionsEnabled": true
+    "vsintellicode.python.completionsEnabled": true,
+    "python.pydev.lint.pylint.use": true,
+    "python.pydev.lint.pylint.showOutput": true,
+    "editor.defaultFormatter": "ms-python.flake8"
 }

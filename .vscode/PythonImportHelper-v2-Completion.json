@@ -1855,7 +1855,16 @@
         "kind": 2,
         "importPath": "ingestion",
         "description": "ingestion",
-        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")\nif __name__ == \"__main__\":",
+        "peekOfCode": "def ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    docs_path = './langchain-docs/api.python.langchain.com/en/latest/'\n    loader = ReadTheDocsLoader(\n        docs_path\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "detail": "ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "ingestion",
+        "description": "ingestion",
+        "peekOfCode": "_ = load_dotenv(find_dotenv())\nembeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n_ = len(os.listdir('./langchain-docs/api.python.langchain.com/en/latest/')) > 0\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    docs_path = './langchain-docs/api.python.langchain.com/en/latest/'\n    loader = ReadTheDocsLoader(\n        docs_path",
         "detail": "ingestion",
         "documentation": {}
     },
@@ -1864,7 +1873,16 @@
         "kind": 5,
         "importPath": "ingestion",
         "description": "ingestion",
-        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    loader = ReadTheDocsLoader(\n        './langchain-docs/api.python.langchain.com/en/latest/'\n    )\n    raw_documents = loader.load()\n    print(f\"loaded {len(raw_documents)} documents\")",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")\n_ = len(os.listdir('./langchain-docs/api.python.langchain.com/en/latest/')) > 0\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    docs_path = './langchain-docs/api.python.langchain.com/en/latest/'\n    loader = ReadTheDocsLoader(\n        docs_path\n    )",
+        "detail": "ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "ingestion",
+        "description": "ingestion",
+        "peekOfCode": "_ = len(os.listdir('./langchain-docs/api.python.langchain.com/en/latest/')) > 0\ndef ingest_docs():\n    \"\"\"\n    Ingest documents from ReadTheDocs and store them in Pinecone.\n    \"\"\"\n    docs_path = './langchain-docs/api.python.langchain.com/en/latest/'\n    loader = ReadTheDocsLoader(\n        docs_path\n    )\n    raw_documents = loader.load()",
         "detail": "ingestion",
         "documentation": {}
     }

@@ -26,6 +26,7 @@ flake8 = "*"
 autopep8 = "*"
 pyright = "*"
 isort = "*"
+langchain-core = "*"
 
 [dev-packages]
 ipykernel = "*"
